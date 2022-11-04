@@ -1,0 +1,4 @@
+コマンド:pyinstaller [exe化したいファイル名] --onefile
+EXEファイル化する際は"--hidden-import plyer.platforms.win.notification"をオプションで付け加えるとうまくいくようになった
+参考:https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14219998899
+参考:https://tutorialmore.com/questions-2085285.htm
